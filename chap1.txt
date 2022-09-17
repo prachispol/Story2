@@ -1,1 +1,2 @@
 This is branching using git UI
+Now I m editing through branching then I will Merge
